@@ -1,0 +1,6 @@
+package com.moracoding.pokedexcc.domain.model.responses
+
+data class Icons(
+    val front_default: String,
+    val front_female: Any
+)
